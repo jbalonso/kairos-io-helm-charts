@@ -344,6 +344,20 @@ entries:
     - https://github.com/kairos-io/helm-charts/releases/download/osbuilder-0.4.0/osbuilder-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
+    appVersion: v0.4.0
+    created: "2022-11-17T22:18:32.491608976Z"
+    description: A Helm chart for osbuilder
+    digest: 760cf98d6d8fb6e77a5e042df3f02b706aa22f0d9c1e23c66a72a9375d6de5c1
+    home: https://kairos.io/
+    maintainers:
+    - email: mudler@kairos.io
+      name: Ettore Di Giacinto
+    name: osbuilder
+    type: application
+    urls:
+    - https://github.com/jbalonso/kairos-io-helm-charts/releases/download/osbuilder-0.4.0-jbalonso1/osbuilder-0.4.0-jbalonso1.tgz
+    version: 0.4.0-jbalonso1
+  - apiVersion: v2
     appVersion: v0.3.1
     created: "2022-11-05T21:24:37.784260799Z"
     description: A Helm chart for osbuilder
@@ -440,4 +454,4 @@ entries:
     urls:
     - https://github.com/c3os-io/helm-charts/releases/download/osbuilder-0.0.1/osbuilder-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-02T15:16:46.580400268Z"
+generated: "2022-11-17T22:18:32.491701376Z"
